@@ -1,0 +1,88 @@
+﻿@model IEnumerable<Advertisement>
+<div class="page-wrapper">
+    <!-- Container fluid  -->
+    <div class="container-fluid">
+
+        <!-- Bread crumb and right sidebar toggle -->
+        <div class="row page-titles">
+            <div class="col-12 text-center">
+                <h3 class="text-themecolor">Hello dear @User.Identity.Name</h3>
+                <ol class="breadcrumb d-flex justify-content-center">
+                    <li class="breadcrumb-item"><a asp-controller="dashboard" asp-action="index">Admin</a></li>
+                    <li class="breadcrumb-item active">Advertisment</li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="row page-titles">
+            <table class="table table-bordered text-white table-responsive w-100">
+                <thead>
+                    <tr>
+                        <th>Image</th>
+                        <th>Brand</th>
+                        <th>Make</th>
+                        <th>Motor</th>
+                        <th>Millage</th>
+                        <th>Transmission</th>
+                        <th>Color</th>
+                        <th>Current date</th>
+                        <th>Updated date</th>
+                        <th>Price</th>
+                        <th>Is VIP?</th>
+                        <th>Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var ad in Model)
+                    {
+                        <tr>
+                            <td>
+                                <img style="width:165px" src="~/img/@ad.Car.Image" />
+                            </td>
+
+                            <td>@ad.Car.Make.Brand.Name</td>
+
+                            <td>@ad.Car.Make.Name</td>
+
+                            <td>@ad.Car.Motor L</td>
+
+                            <td>@ad.Car.Millage km</td>
+
+                            <td>@ad.Car.Transmission.Name</td>
+
+                            <td>@ad.Car.Color</td>
+
+                            <td>@ad.CurrentDate.Day/@ad.CurrentDate.Month/@ad.CurrentDate.Year</td>
+
+                            <td>@ad.UpdatedDate.Day/@ad.UpdatedDate.Month/@ad.UpdatedDate.Year</td>
+
+                            <td>@ad.Car.Price $</td>
+
+                            <td>
+                                @if (ad.Car.IsVip)
+                                {
+                                    <span>Yes</span>
+                                }
+                                else
+                                {
+                                    <span>No</span>
+                                }
+                            </td>
+                            <td>
+                                <a class="btn btn-outline-info btn-block my-2" asp-action="Details" asp-route-id="@ad.Id">Details</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        <!-- End Bread crumb and right sidebar toggle -->
+    </div>
+    <!-- End Container fluid  -->
+    <!-- footer -->
+    <footer class="footer">
+        © 2019 Admin Wrap Admin by themedesigner.in
+    </footer>
+    <!-- End footer -->
+</div>
+

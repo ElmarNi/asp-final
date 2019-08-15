@@ -1,0 +1,18 @@
+﻿@model IEnumerable<Blog>
+
+@foreach (var blog in Model)
+{
+    <div class="media mt-3">
+        <a class="pr-3 mt-2" href="/blog/details/@blog.Id">
+            <img class="media-object" src="~/img/@blog.Image" alt="blog-car" style="width:80px">
+        </a>
+        <div class="media-body align-self-center">
+            <h5>
+                <a href="/blog/details/@blog.Id">@blog.Title</a>
+            </h5>
+            <div class="listing-post-meta">
+                <a><i class="fa fa-calendar"></i>@blog.UpdatedDate.Day/@blog.UpdatedDate.Month/@blog.UpdatedDate.Year.</a>
+            </div>
+        </div>
+    </div>
+}

@@ -1,0 +1,137 @@
+﻿@model HomeIndexVM
+    <!-- Banner start -->
+<div class="banner" id="banner">
+    <div id="bannerCarousole" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner banner-slider-inner text-center">
+            @for (int i = 0; i < Model.Sliders.Count(); i++)
+            {
+                <div class="carousel-item banner-max-height @(i == 0? "active" : "")">
+                    <img class="d-block w-100 h-100" src="~/img/@Model.Sliders.ElementAt(i).Image" alt="banner">
+                    <div class="carousel-content container banner-info-2">
+                        <h1>Welcome to Car Cmart</h1>
+                        <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+                    </div>
+                </div>
+            }
+        </div>
+        <a class="carousel-control-prev none-580" href="#bannerCarousole" role="button" data-slide="prev">
+            <span class="slider-mover-left" aria-hidden="true">
+                <i class="fa fa-angle-left"></i>
+            </span>
+        </a>
+        <a class="carousel-control-next none-580" href="#bannerCarousole" role="button" data-slide="next">
+            <span class="slider-mover-right" aria-hidden="true">
+                <i class="fa fa-angle-right"></i>
+            </span>
+        </a>
+    </div>
+</div>
+<!-- Banner end -->
+
+<input type="hidden" id="takenAds" value="@ViewBag.TakenAds"
+<!-- Featured car start -->
+<div class="featured-car content-area">
+    <div class="container">
+        <!-- Main title -->
+        <div class="main-title">
+            <h1>Cars</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+        </div>
+        <div class="row" id="cars">
+
+            @foreach (var ad in Model.VipAdvertisements)
+            {
+                <div class="col-lg-4">
+                    <div class="car-box">
+                        <div class="car-thumbnail">
+                            <a href="/advertisement/details/@ad.Id" class="car-img">
+                                <div class="tag">VIP</div>
+                                <div class="price-box">$@ad.Car.Price</div>
+                                <div class="price-box text-left" style="left:20px">@ad.UpdatedDate.Day/@ad.UpdatedDate.Month/@ad.UpdatedDate.Year</div>
+                                <img class="d-block w-100" src="~/img/@ad.Car.Image" alt="car">
+                            </a>
+                        </div>
+                        <div class="detail">
+                            <h1 class="title">
+                                <a asp-controller="Advertisement" asp-action="Details" asp-route-id="@ad.Id">@ad.Car.Make.Brand.Name @ad.Car.Make.Name</a>
+                            </h1>
+                            <div class="location">
+                                <a>
+                                    <i class="flaticon-pin"></i>@ad.City.Country.Name @ad.City.Name,
+                                </a>
+                            </div>
+                            <ul class="facilities-list clearfix">
+                                <li>
+                                    <i class="flaticon-way"></i> @ad.Car.Millage km
+                                </li>
+                                <li>
+                                    <i class="flaticon-manual-transmission"></i> @ad.Car.Transmission.Name
+                                </li>
+                                <li>
+                                    <i class="flaticon-calendar-1"></i> @ad.Car.ManufactureYear
+                                </li>
+                                <li>
+                                    <i class="flaticon-fuel"></i> @ad.Car.FuelType.Type
+                                </li>
+                                <li>
+                                    <i class="flaticon-car"></i> @ad.Car.Motor l
+                                </li>
+                                <li>
+                                    <i class="flaticon-gear"></i> @ad.Car.Color
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            }
+            <partial name="_CarsPartial" model="Model.Advertisements" />
+        </div>
+        <div class="row">
+            <button type="button" class="btn btn-block btn-danger mb-3 mx-3" id="load_more" style="background-color:#ff214f">Load More</button>
+        </div>
+    </div>
+</div>
+<input type="hidden" id="carCount" value="@ViewBag.TotalCount"
+<!-- Featured car end -->
+<!-- Blog start -->
+<div class="blog content-area" style="background-color: #f8f9fa">
+    <div class="container">
+        <!-- Main title -->
+        <div class="main-title">
+            <h1>Our Blog</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
+        <!-- Slick slider area start -->
+        <div class="slick-slider-area clearfix">
+            <div class="row slick-carousel" data-slick="{&quot;slidesToShow&quot;: 3, &quot;responsive&quot;:[{&quot;breakpoint&quot;: 1024,&quot;settings&quot;:{&quot;slidesToShow&quot;: 2}}, {&quot;breakpoint&quot;: 768,&quot;settings&quot;:{&quot;slidesToShow&quot;: 1}}]}">
+
+                @foreach (var blog in Model.Blogs)
+                {
+                    <div class="slick-slide-item">
+                        <div class="blog-1">
+                            <div class="blog-photo">
+                                <img src="~/img/@blog.Image" alt="small-blog" class="img-fluid">
+                                <div class="date-box" style="padding: 9px 10px;top: 5px;right: 5px; height:auto; width:auto">
+                                    <span style="font-size:15px;line-height:15px">@blog.UpdatedDate.Day/@blog.UpdatedDate.Month/@blog.UpdatedDate.Year</span>
+                                </div>
+                            </div>
+                            <div class="detail">
+                                <h4>
+                                    <a href="/blog/details/@blog.Id">@blog.Title</a>
+                                </h4>
+                                <p>@blog.ShortContent</p>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+            <div class="slick-prev slick-arrow-buton">
+                <i class="fa fa-angle-left"></i>
+            </div>
+            <div class="slick-next slick-arrow-buton">
+                <i class="fa fa-angle-right"></i>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Blog end -->

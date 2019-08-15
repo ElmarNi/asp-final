@@ -1,0 +1,49 @@
+﻿@model Blog
+
+<div class="page-wrapper">
+    <!-- Container fluid  -->
+    <div class="container-fluid">
+
+        <!-- Bread crumb and right sidebar toggle -->
+        <div class="row page-titles">
+            <div class="col-12 text-center">
+                <h3 class="text-themecolor">Hello dear @User.Identity.Name</h3>
+                <ol class="breadcrumb d-flex justify-content-center">
+                    <li class="breadcrumb-item"><a asp-controller="dashboard" asp-action="index">Admin</a></li>
+                    <li class="breadcrumb-item"><a asp-controller="blog" asp-action="index">Blog</a></li>
+                    <li class="breadcrumb-item active">Delete</li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="row page-titles">
+            <div class="col-12">
+                <img src="~/img/@Model.Image" class="img-fluid" />
+                <h5 class="mt-4">Title</h5>
+                <p>@Model.Title</p>
+                <h5 class="mt-4">Short content</h5>
+                <p>@Model.ShortContent</p>
+                <h5 class="mt-4">Main content</h5>
+                <p>@Model.Content</p>
+                <h5 class="mt-4">Create date</h5>
+                <p>@Model.CreateDate.Day/@Model.CreateDate.Month/@Model.CreateDate.Year</p>
+                <h5 class="mt-4">Updated date</h5>
+                <p>@Model.UpdatedDate.Day/@Model.UpdatedDate.Month/@Model.UpdatedDate.Year</p>
+                <form method="post">
+                    <div class="alert alert-danger">
+                        <p class="m-0"><b>Are you sure to delete this blog?</b></p>
+                    </div>
+                    <input type="submit" class="btn btn-outline-danger btn-block mb-3" value="Delete" />
+                </form>
+                <a class="btn btn-block btn-outline-primary" asp-action="index">Back to blogs</a>
+            </div>
+        </div>
+        <!-- End Bread crumb and right sidebar toggle -->
+    </div>
+    <!-- End Container fluid  -->
+    <!-- footer -->
+    <footer class="footer">
+        © 2019 Admin Wrap Admin by themedesigner.in
+    </footer>
+    <!-- End footer -->
+</div>

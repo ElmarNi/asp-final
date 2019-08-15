@@ -1,0 +1,43 @@
+﻿@model BlogDetailsVM
+
+<!-- Sub banner start -->
+<div class="sub-banner">
+    <div class="container breadcrumb-area">
+        <div class="breadcrumb-areas">
+            <h1>Blog Details</h1>
+            <ul class="breadcrumbs">
+                <li><a href="/">Home</a></li>
+                <li class="active">Blog Details</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- Sub Banner end -->
+<!-- Blog body start -->
+<div class="blog-body content-area-4">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-12">
+                <!-- Blog 1 start -->
+                <div class="blog-1 blog-big mb-50">
+                    <div class="blog-photo">
+                        <img src="~/img/@Model.Blog.Image" alt="blog-img" class="img-fluid">
+                    </div>
+                    <div class="detail">
+                        <h3>
+                            <a>@Model.Blog.Title</a>
+                        </h3>
+                        <p>@Model.Blog.Content</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-12">
+                <div class="widget recent-posts" style="box-shadow:0 0 35px rgba(0, 0, 0, 0.1)">
+                    <h3 class="sidebar-title">Recent Posts</h3>
+                    <partial name="_BlogPartial" model="Model.Blogs">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Blog body end -->

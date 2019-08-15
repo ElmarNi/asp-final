@@ -1,0 +1,30 @@
+﻿@model Advertisement
+
+    <ul>
+        <li>
+            <span>Brand</span>@Model.Car.Make.Brand.Name
+        </li>
+        <li>
+            <span>Make</span>@Model.Car.Make.Name
+        </li>
+        <li>
+            <span>Year</span>@Model.Car.ManufactureYear
+        <li>
+            <span>Mileage</span>@Model.Car.Millage km
+        </li>
+        <li>
+            <span>Color</span>@Model.Car.Color
+        </li>
+        <li>
+            <span>Transmission</span>@Model.Car.Transmission.Name
+        </li>
+        <li>
+            <span>Engine</span>@Model.Car.Motor L
+        </li>
+        <li>
+            <span>Location</span>@Model.City.Country.Name @Model.City.Name
+        </li>
+        <li>
+            <span>Fuel Type</span>@Model.Car.FuelType.Type
+        </li>
+    </ul>

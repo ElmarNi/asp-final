@@ -1,0 +1,81 @@
+﻿@model IEnumerable<Blog>
+<div class="page-wrapper">
+    <!-- Container fluid  -->
+    <div class="container-fluid">
+
+        <!-- Bread crumb and right sidebar toggle -->
+        <div class="row page-titles">
+            <div class="col-12 text-center">
+                <h3 class="text-themecolor">Hello dear @User.Identity.Name</h3>
+                <ol class="breadcrumb d-flex justify-content-center">
+                    <li class="breadcrumb-item"><a asp-controller="dashboard" asp-action="index">Admin</a></li>
+                    <li class="breadcrumb-item active">Blog</li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="row page-titles">
+            <a class="btn btn-outline-info btn-outline-warning btn-block mb-3" asp-action="Create">Create</a>
+
+            <table class="table table-bordered text-white table-responsive">
+                <thead>
+                    <tr>
+                        <th>
+                            Image
+                        </th>
+                        <th>
+                            Title
+                        </th>
+                        <th>
+                            Short content
+                        </th>
+                        <th>
+                            Created date
+                        </th>
+                        <th>
+                            Updated date
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var blog in Model)
+                    {
+                    <tr>
+                        <td>
+                            <img style="width:150px" src="~/img/@blog.Image" />
+                        </td>
+                        <td>
+                            @blog.Title
+                        </td>
+                        <td>
+                            @blog.ShortContent
+                        </td>
+                        <td>
+                            @blog.CreateDate.Day/@blog.CreateDate.Month/@blog.CreateDate.Year
+                        </td>
+                        <td>
+                            @blog.UpdatedDate.Day/@blog.UpdatedDate.Month/@blog.UpdatedDate.Year
+                        </td>
+                        <td>
+                            <a class="btn btn-outline-info btn-block my-2" asp-action="Details" asp-route-id="@blog.Id">Details</a>
+                            <a class="btn btn-outline-success btn-block my-2" asp-action="Update" asp-route-id="@blog.Id">Update</a>
+                            @if (Model.Count() > 1)
+                            {
+                                <a class="btn btn-outline-danger btn-block my-2" asp-action="Delete" asp-route-id="@blog.Id">Delete</a>
+                            }
+                        </td>
+                    </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        <!-- End Bread crumb and right sidebar toggle -->
+    </div>
+    <!-- End Container fluid  -->
+    <!-- footer -->
+    <footer class="footer">
+        © 2019 Admin Wrap Admin by themedesigner.in
+    </footer>
+    <!-- End footer -->
+</div>
+

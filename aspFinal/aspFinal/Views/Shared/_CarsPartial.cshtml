@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Advertisement>
+
+@foreach (var ad in Model)
+{
+    <div class="col-lg-4">
+        <div class="car-box">
+            <div class="car-thumbnail">
+                <a href="/advertisement/details/@ad.Id" class="car-img">
+                    <div class="price-box">$@ad.Car.Price</div>
+                    <div class="price-box text-left" style="left:20px">@ad.UpdatedDate.Day/@ad.UpdatedDate.Month/@ad.UpdatedDate.Year</div>
+                    <img class="d-block w-100" src="~/img/@ad.Car.Image" alt="car">
+                </a>
+            </div>
+            <div class="detail">
+                <h1 class="title">
+                    <a href="/Advertisement/details/@ad.Id">@ad.Car.Make.Brand.Name @ad.Car.Make.Name</a>
+                </h1>
+                <div class="location">
+                    <a>
+                        <i class="flaticon-pin"></i>@ad.City.Country.Name @ad.City.Name,
+                    </a>
+                </div>
+                <ul class="facilities-list clearfix">
+                    <li>
+                        <i class="flaticon-way"></i> @ad.Car.Millage km
+                    </li>
+                    <li>
+                        <i class="flaticon-manual-transmission"></i> @ad.Car.Transmission.Name
+                    </li>
+                    <li>
+                        <i class="flaticon-calendar-1"></i> @ad.Car.ManufactureYear
+                    </li>
+                    <li>
+                        <i class="flaticon-fuel"></i> @ad.Car.FuelType.Type
+                    </li>
+                    <li>
+                        <i class="flaticon-car"></i> @ad.Car.Motor l
+                    </li>
+                    <li>
+                        <i class="flaticon-gear"></i> @ad.Car.Color
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+}

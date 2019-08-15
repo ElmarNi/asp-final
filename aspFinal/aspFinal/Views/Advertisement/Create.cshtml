@@ -1,0 +1,140 @@
+﻿@model aspFinal.Models.Car
+<!-- Sub banner start -->
+<div class="sub-banner">
+    <div class="container breadcrumb-area">
+        <div class="breadcrumb-areas">
+            <h1>Advertisments</h1>
+            <ul class="breadcrumbs">
+                <li><a href="/">Home</a></li>
+                <li class="active"><a href="/advertisement">Advertisement</a></li>
+                <li class="active">Create</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- Sub Banner end -->
+<style>
+    span{
+        color : red !important
+    }
+</style>
+<div class="container my-3">
+    <div class="row">
+        <div class="col-12">
+            <form asp-action="Create" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="Make.Brand"></label>
+                    <select class="form-control" id="brands" asp-items="@(new SelectList(ViewBag.Brands, "Id", "Name"))">
+                        <option value="">Select Brand</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Make"></label>
+                    <select class="form-control" asp-for="MakeId">
+                        <option value="">Select Make</option>
+                    </select>
+                    <span asp-validation-for="MakeId"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="ManufactureYear"></label>
+                    <input class="form-control" asp-for="ManufactureYear" max="@DateTime.Now.Year" min="1700" />
+                    <span asp-validation-for="ManufactureYear"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Motor"></label>
+                    <input class="form-control" asp-for="Motor" max="10" min="0" />
+                    <span asp-validation-for="Motor"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Millage"></label>
+                    <input class="form-control" asp-for="Millage" min="0" />
+                    <span asp-validation-for="Millage"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Color"></label>
+                    <input class="form-control" asp-for="Color" />
+                    <span asp-validation-for="Color"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Transmission"></label>
+                    <select class="form-control" asp-items="@(new SelectList(ViewBag.Transmissions, "Id", "Name"))" asp-for="TransmissionId">
+                        <option value="">Select Transmission</option>
+                    </select>
+                    <span asp-validation-for="TransmissionId"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="FuelType"></label>
+                    <select class="form-control" asp-items="@(new SelectList(ViewBag.Fuels, "Id", "Type"))" asp-for="FuelTypeId">
+                        <option value="">Select Fuel type</option>
+                    </select>
+                    <span asp-validation-for="FuelTypeId"></span>
+                </div>
+
+                <div class="form-group d-flex justify-content-start align-items-center">
+                    <label asp-for="IsVip" class="m-0 mr-2"></label>
+                    <input class="form-control" style="width:auto" asp-for="IsVip" />
+                    <span asp-validation-for="IsVip"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Description"></label>
+                    <textarea asp-for="Description" class="form-control"></textarea>
+                    <span asp-validation-for="Description"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Price"></label>
+                    <input class="form-control" asp-for="Price" min="0" />
+                    <span asp-validation-for="Price"></span>
+                </div>
+
+                <div class="form-group">
+                    <label>Main Photo</label>
+                    <input class="form-control" asp-for="Photo" />
+                    <span asp-validation-for="Photo"></span>
+                </div>
+
+                <div class="form-group">
+                    <label>Detail Photos</label>
+                    <input class="form-control" asp-for="DetailPhotos" />
+                    <span asp-validation-for="DetailPhotos"></span>
+                </div>
+
+                <div class="form-group ">
+                    <label asp-for=" Advertisement.City.Country"></label>
+                    <select class="form-control" id="countries" asp-items="@(new SelectList(ViewBag.Countries, "Id", "Name"))">
+                        <option value="">Select Country</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Advertisement.City"></label>
+                    <select class="form-control" asp-for="Advertisement.CityId" id="CityId">
+                        <option value="">Select City</option>
+                    </select>
+                    <span asp-validation-for="Advertisement.CityId"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-outline-warning btn-block" />
+                </div>
+            </form>
+            <a class="btn btn-block btn-outline-primary" asp-action="index">Back to advertisments</a>
+        </div>
+    </div>
+</div>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+
+
+
+

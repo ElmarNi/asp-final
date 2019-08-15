@@ -1,0 +1,149 @@
+﻿@model aspFinal.Models.Advertisement
+<!-- Sub banner start -->
+<div class="sub-banner">
+    <div class="container breadcrumb-area">
+        <div class="breadcrumb-areas">
+            <h1>Advertisments</h1>
+            <ul class="breadcrumbs">
+                <li><a href="/">Home</a></li>
+                <li class="active"><a href="/advertisement">Advertisement</a></li>
+                <li class="active">Update</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- Sub Banner end -->
+<style>
+    span {
+        color: red !important
+    }
+</style>
+<div class="container my-3">
+    <div class="row">
+        <div class="col-12">
+            <form method="post" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="Car.Make.Brand"></label>
+                    <select class="form-control" id="brands" asp-items="@(new SelectList(ViewBag.Brands, "Id", "Name"))">
+                        <option value="">Select Brand</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Car.Make"></label>
+                    <select class="form-control" asp-for="Car.MakeId" id="MakeId">
+                        <option value="">Select Make</option>
+                    </select>
+                    <span asp-validation-for="Car.MakeId"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Car.ManufactureYear"></label>
+                    <input class="form-control" asp-for="Car.ManufactureYear" max="@DateTime.Now.Year" min="1700" />
+                    <span asp-validation-for="Car.ManufactureYear"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Car.Motor"></label>
+                    <input class="form-control" asp-for="Car.Motor" max="10" min="0" />
+                    <span asp-validation-for="Car.Motor"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Car.Millage"></label>
+                    <input class="form-control" asp-for="Car.Millage" min="0" />
+                    <span asp-validation-for="Car.Millage"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Car.Color"></label>
+                    <input class="form-control" asp-for="Car.Color" />
+                    <span asp-validation-for="Car.Color"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Car.Transmission"></label>
+                    <select class="form-control" asp-items="@(new SelectList(ViewBag.Transmissions, "Id", "Name"))" asp-for="Car.TransmissionId">
+                        <option value="">Select Transmission</option>
+                    </select>
+                    <span asp-validation-for="Car.TransmissionId"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Car.FuelType"></label>
+                    <select class="form-control" asp-items="@(new SelectList(ViewBag.Fuels, "Id", "Type"))" asp-for="Car.FuelTypeId">
+                        <option value="">Select Fuel type</option>
+                    </select>
+                    <span asp-validation-for="Car.FuelTypeId"></span>
+                </div>
+
+                <div class="form-group d-flex justify-content-start align-items-center">
+                    <label asp-for="Car.IsVip" class="m-0 mr-2"></label>
+                    <input class="form-control" style="width:auto" asp-for="Car.IsVip" />
+                    <span asp-validation-for="Car.IsVip"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Car.Description"></label>
+                    <textarea asp-for="Car.Description" class="form-control"></textarea>
+                    <span asp-validation-for="Car.Description"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Car.Price"></label>
+                    <input class="form-control" asp-for="Car.Price" min="0" />
+                    <span asp-validation-for="Car.Price"></span>
+                </div>
+
+                <div class="form-group">
+                    <label>Main Photo</label>
+                    <input class="form-control" asp-for="Car.Photo" />
+                    <img src="~/img/@Model.Car.Image" class="img-thumbnail mt-2" style="width:150px" />
+                    <span asp-validation-for="Car.Photo"></span>
+                </div>
+
+                <div class="form-group">
+                    <label>Detail Photos</label>
+                    <input class="form-control" asp-for="Car.DetailPhotos" />
+                    <div id="detailImageDiv">
+                        @foreach (var img in Model.Car.CarDetailPhotos)
+                        {
+                            <button data-carId="@img.Id" type="button" class="btn mt-2 btn-light detailImage">
+                                <img src="~/img/@img.Image" class="img-thumbnail" style="width:150px" title="Click for delete"/>
+                            </button>
+                        }
+                    </div>
+                    <span asp-validation-for="Car.DetailPhotos"></span>
+                </div>
+
+                <div class="form-group ">
+                    <label asp-for=" City.Country"></label>
+                    <select class="form-control" id="countries" asp-items="@(new SelectList(ViewBag.Countries, "Id", "Name"))">
+                        <option value="">Select Country</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="City"></label>
+                    <select class="form-control" asp-for="CityId">
+                        <option value="">Select City</option>
+                    </select>
+                    <span asp-validation-for="CityId"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Update" class="btn btn-outline-warning btn-block" />
+                </div>
+            </form>
+            <a class="btn btn-block btn-outline-primary" asp-action="index">Back to advertisments</a>
+        </div>
+    </div>
+</div>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+
+
+
+

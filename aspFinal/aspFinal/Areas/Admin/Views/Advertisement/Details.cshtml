@@ -1,0 +1,107 @@
+﻿@model Advertisement
+<style>
+    p{
+        margin: 0;
+    }
+    .car-detail-custom{
+        border: 1px solid rgba(120, 130, 140, 0.13);
+        margin: 5px;
+        padding: 10px;
+    }
+</style>
+<div class="page-wrapper">
+    <!-- Container fluid  -->
+    <div class="container-fluid">
+
+        <!-- Bread crumb and right sidebar toggle -->
+        <div class="row page-titles">
+            <div class="col-12 text-center">
+                <h3 class="text-themecolor">Hello dear @User.Identity.Name</h3>
+                <ol class="breadcrumb d-flex justify-content-center">
+                    <li class="breadcrumb-item"><a asp-controller="dashboard" asp-action="index">Admin</a></li>
+                    <li class="breadcrumb-item"><a asp-controller="advertisement" asp-action="index">Advertisement</a></li>
+                    <li class="breadcrumb-item active">Details</li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="row page-titles">
+            <div class="col-12 mb-3">
+                <img src="~/img/@Model.Car.Image" class="img-fluid" />
+            </div>
+            <div class="col-3 col-lg-1 car-detail-custom">
+                <h5>Brand</h5>
+                <p>@Model.Car.Make.Brand.Name</p>
+            </div>
+            <div class="col-3 col-lg-1 car-detail-custom">
+                <h5>Make</h5>
+                <p>@Model.Car.Make.Name</p>
+            </div>
+            <div class="col-3 col-lg-1 car-detail-custom">
+                <h5>Motor</h5>
+                <p>@Model.Car.Motor L</p>
+            </div>
+            <div class="col-3 col-lg-1 car-detail-custom">
+                <h5>Year</h5>
+                <p>@Model.Car.ManufactureYear L</p>
+            </div>
+            <div class="col-4 col-lg-2 car-detail-custom">
+                <h5>Millage</h5>
+                <p>@Model.Car.Millage km</p>
+            </div>
+            <div class="col-3 col-lg-1 car-detail-custom">
+                <h5>Color</h5>
+                <p>@Model.Car.Color</p>
+            </div>
+            <div class="col-4 col-lg-2 car-detail-custom">
+                <h5>Fuel type</h5>
+                <p>@Model.Car.FuelType.Type</p>
+            </div>
+            <div class="col-4 col-lg-2 car-detail-custom">
+                <h5>Transmission</h5>
+                <p>@Model.Car.Transmission.Name</p>
+            </div>
+            <div class="col-4 col-lg-2 car-detail-custom">
+                <h5>City</h5>
+                <p>@Model.City.Country.Name, @Model.City.Name</p>
+            </div>
+            <div class="col-4 col-lg-2 car-detail-custom">
+                <h5>Created date</h5>
+                <p>@Model.CurrentDate.Day/@Model.CurrentDate.Month/@Model.CurrentDate.Year</p>
+            </div>
+            <div class="col-4 col-lg-2 car-detail-custom">
+                <h5>Updated date</h5>
+                <p>@Model.UpdatedDate.Day/@Model.UpdatedDate.Month/@Model.UpdatedDate.Year</p>
+            </div>
+            <div class="col-3 col-lg-1 car-detail-custom">
+                <h5>Is VIP?</h5>
+                @if (Model.Car.IsVip)
+                {
+                    <p>Yes</p>
+                }
+                else
+                {
+                    <p>No</p>
+                }
+            </div>
+            <div class="col-3 col-lg-1 car-detail-custom">
+                <h5>Price</h5>
+                <p>@Model.Car.Price $</p>
+            </div>
+            <div class="col-12 mt-3">
+                <h5 class="text-center">Description</h5>
+                <p>@Model.Car.Description</p>
+            </div>
+            <div class="col-12 mt-3">
+                <a class="btn btn-block btn-outline-primary" asp-action="index">Back to advertisments</a>
+            </div>
+        </div>
+        <!-- End Bread crumb and right sidebar toggle -->
+    </div>
+    <!-- End Container fluid  -->
+    <!-- footer -->
+    <footer class="footer">
+        © 2019 Admin Wrap Admin by themedesigner.in
+    </footer>
+    <!-- End footer -->
+</div>

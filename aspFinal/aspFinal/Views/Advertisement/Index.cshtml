@@ -1,0 +1,87 @@
+﻿@model IEnumerable<Advertisement>
+<!-- Sub banner start -->
+<div class="sub-banner">
+    <div class="container breadcrumb-area">
+        <div class="breadcrumb-areas">
+            <h1>Advertisments</h1>
+            <ul class="breadcrumbs">
+                <li><a href="/">Home</a></li>
+                <li class="active">Advertisments</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- Sub Banner end -->
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12">
+            <a class="btn btn-outline-info btn-outline-warning btn-block my-3" asp-action="Create">Create</a>
+
+            <table class="table table-hover text-dark table-bordered text-white table-responsive w-100 mt-3">
+                <thead>
+                    <tr>
+                        <th class="col">Image</th>
+                        <th class="col">Brand</th>
+                        <th class="col">Make</th>
+                        <th class="col">Motor</th>
+                        <th class="col">Millage</th>
+                        <th class="col">Color</th>
+                        <th class="col">Created date</th>
+                        <th class="col">Updated date</th>
+                        <th class="col">Country</th>
+                        <th class="col">City</th>
+                        <th class="col">Price</th>
+                        <th class="col">Is VIP?</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @foreach (var ad in Model)
+                    {
+                        <tr>
+                            <td>
+                                <img class="img-fluid" src="~/img/@ad.Car.Image" />
+                            </td>
+
+                            <td>@ad.Car.Make.Brand.Name</td>
+
+                            <td>@ad.Car.Make.Name</td>
+
+                            <td>@ad.Car.Motor L</td>
+
+                            <td>@ad.Car.Millage km</td>
+
+                            <td>@ad.Car.Color</td>
+
+                            <td>@ad.CurrentDate.Day/@ad.CurrentDate.Month/@ad.CurrentDate.Year</td>
+
+                            <td>@ad.UpdatedDate.Day/@ad.UpdatedDate.Month/@ad.UpdatedDate.Year</td>
+
+                            <td>@ad.City.Country.Name</td>
+
+                            <td>@ad.City.Name</td>
+
+                            <td>@ad.Car.Price $</td>
+
+                            <td>
+                                @if (ad.Car.IsVip)
+                                {
+                                    <span>Yes</span>
+                                }
+                                else
+                                {
+                                    <span>No</span>
+                                }
+                            </td>
+                            <td>
+                                <a class="btn btn-outline-info btn-block my-2" asp-action="Details" asp-route-id="@ad.Id">Details</a>
+                                <a class="btn btn-outline-success btn-block my-2" asp-action="Update" asp-route-id="@ad.Id">Update</a>
+                                <a class="btn btn-outline-danger btn-block my-2" asp-action="Delete" asp-route-id="@ad.Id">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
