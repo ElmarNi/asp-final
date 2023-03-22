@@ -16,8 +16,8 @@ namespace aspFinal.Controllers
     public class AdvertisementController : Controller
     {
         private readonly AspFinalDbContext _context;
-        private readonly IHostingEnvironment _env;
-        public AdvertisementController(AspFinalDbContext context, IHostingEnvironment env)
+        private readonly IWebHostEnvironment _env;
+        public AdvertisementController(AspFinalDbContext context, IWebHostEnvironment env)
         {
             _context = context;
             _env = env;

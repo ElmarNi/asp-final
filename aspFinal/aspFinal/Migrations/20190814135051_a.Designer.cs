@@ -11,7 +11,7 @@ namespace aspFinal.Migrations
 {
     [DbContext(typeof(AspFinalDbContext))]
     [Migration("20190814135051_a")]
-    partial class a
+    partial class A
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

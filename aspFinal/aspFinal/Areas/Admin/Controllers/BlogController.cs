@@ -14,8 +14,8 @@ namespace aspFinal.Areas.Admin.Controllers
     public class BlogController : Controller
     {
         private readonly AspFinalDbContext _context;
-        private readonly IHostingEnvironment _env;
-        public BlogController(AspFinalDbContext context, IHostingEnvironment env)
+        private readonly IWebHostEnvironment _env;
+        public BlogController(AspFinalDbContext context, IWebHostEnvironment env)
         {
             _context = context;
             _env = env;

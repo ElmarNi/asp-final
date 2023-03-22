@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace aspFinal.Migrations
 {
-    public partial class addedcardetails : Migration
+    public partial class addedCardetails : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

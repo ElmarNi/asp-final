@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace aspFinal.Migrations
 {
-    public partial class updatedcartablemillagedatatypetointfromdecimal : Migration
+    public partial class updatedCartablemillagedatatypetointfromdecimal : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

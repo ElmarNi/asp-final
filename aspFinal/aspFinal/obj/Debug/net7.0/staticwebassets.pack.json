@@ -1,0 +1,2501 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/css/animate.css",
+      "PackagePath": "staticwebassets/Admin/css/animate.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/css/blue-dark.css",
+      "PackagePath": "staticwebassets/Admin/css/blue-dark.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/Admin/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/css/c3.min.css",
+      "PackagePath": "staticwebassets/Admin/css/c3.min.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/css/css.css",
+      "PackagePath": "staticwebassets/Admin/css/css.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/css/dashboard1.css",
+      "PackagePath": "staticwebassets/Admin/css/dashboard1.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/css/flag-icon.min.css",
+      "PackagePath": "staticwebassets/Admin/css/flag-icon.min.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/css/fontawesome-all.css",
+      "PackagePath": "staticwebassets/Admin/css/fontawesome-all.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/css/iconmind.css",
+      "PackagePath": "staticwebassets/Admin/css/iconmind.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/css/jquery.toast.css",
+      "PackagePath": "staticwebassets/Admin/css/jquery.toast.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/css/materialdesignicons.min.css",
+      "PackagePath": "staticwebassets/Admin/css/materialdesignicons.min.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/css/morris.css",
+      "PackagePath": "staticwebassets/Admin/css/morris.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/css/perfect-scrollbar.min.css",
+      "PackagePath": "staticwebassets/Admin/css/perfect-scrollbar.min.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/css/simple-line-icons.css",
+      "PackagePath": "staticwebassets/Admin/css/simple-line-icons.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/css/spinners.css",
+      "PackagePath": "staticwebassets/Admin/css/spinners.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/css/style.css",
+      "PackagePath": "staticwebassets/Admin/css/style.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/css/themify-icons.css",
+      "PackagePath": "staticwebassets/Admin/css/themify-icons.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/css/weather-icons.min.css",
+      "PackagePath": "staticwebassets/Admin/css/weather-icons.min.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/JTURjIg1_i6t8kCHKm45_ZpC3gnD-w.ttf",
+      "PackagePath": "staticwebassets/Admin/fonts/JTURjIg1_i6t8kCHKm45_ZpC3gnD-w.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/JTURjIg1_i6t8kCHKm45_bZF3gnD-w.ttf",
+      "PackagePath": "staticwebassets/Admin/fonts/JTURjIg1_i6t8kCHKm45_bZF3gnD-w.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/JTURjIg1_i6t8kCHKm45_cJD3gnD-w.ttf",
+      "PackagePath": "staticwebassets/Admin/fonts/JTURjIg1_i6t8kCHKm45_cJD3gnD-w.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf",
+      "PackagePath": "staticwebassets/Admin/fonts/JTURjIg1_i6t8kCHKm45_dJE3gnD-w.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf",
+      "PackagePath": "staticwebassets/Admin/fonts/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets/Admin/fonts/Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets/Admin/fonts/Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets/Admin/fonts/Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets/Admin/fonts/Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/Simple-Line-Icons_1.eot",
+      "PackagePath": "staticwebassets/Admin/fonts/Simple-Line-Icons_1.eot"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ad.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ad.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ae.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ae.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/af.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/af.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ag.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ag.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ai.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ai.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/al.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/al.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/am.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/am.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ao.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ao.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/aq.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/aq.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ar.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ar.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/as.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/as.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/at.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/at.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/au.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/au.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/aw.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/aw.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ax.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ax.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/az.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/az.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ba.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ba.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/bb.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/bb.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/bd.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/bd.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/be.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/be.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/bf.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/bf.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/bg.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/bg.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/bh.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/bh.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/bi.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/bi.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/bj.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/bj.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/bl.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/bl.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/bm.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/bm.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/bn.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/bn.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/bo.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/bo.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/bq.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/bq.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/br.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/br.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/bs.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/bs.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/bt.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/bt.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/bv.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/bv.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/bw.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/bw.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/by.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/by.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/bz.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/bz.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ca.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ca.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/cc.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/cc.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/cd.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/cd.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/cf.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/cf.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/cg.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/cg.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ch.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ch.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ci.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ci.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ck.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ck.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/cl.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/cl.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/cm.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/cm.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/cn.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/cn.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/co.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/co.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/cr.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/cr.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/cu.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/cu.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/cv.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/cv.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/cw.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/cw.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/cx.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/cx.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/cy.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/cy.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/cz.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/cz.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/danger.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/danger.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/de.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/de.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/dj.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/dj.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/dk.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/dk.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/dm.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/dm.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/do.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/do.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/dz.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/dz.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ec.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ec.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ee.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ee.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/eg.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/eg.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/eh.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/eh.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/er.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/er.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/es.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/es.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/et.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/et.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/fa-brands-400.eot",
+      "PackagePath": "staticwebassets/Admin/fonts/fa-brands-400.eot"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/fa-brands-400.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/fa-brands-400.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/Admin/fonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/Admin/fonts/fa-brands-400.woff"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/Admin/fonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/Admin/fonts/fa-regular-400.eot"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/fa-regular-400.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/fa-regular-400.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/Admin/fonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/Admin/fonts/fa-regular-400.woff"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/Admin/fonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/Admin/fonts/fa-solid-900.eot"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/fa-solid-900.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/fa-solid-900.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/Admin/fonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/fa-solid-900.woff",
+      "PackagePath": "staticwebassets/Admin/fonts/fa-solid-900.woff"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/Admin/fonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/fi.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/fi.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/fj.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/fj.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/fk.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/fk.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/fm.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/fm.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/fo.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/fo.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/fr.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/fr.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ga.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ga.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/gb.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/gb.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/gd.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/gd.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ge.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ge.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/gf.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/gf.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/gg.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/gg.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/gh.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/gh.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/gi.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/gi.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/gl.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/gl.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/gm.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/gm.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/gn.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/gn.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/gp.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/gp.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/gq.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/gq.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/gr.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/gr.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/gs.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/gs.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/gt.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/gt.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/gu.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/gu.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/gw.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/gw.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/gy.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/gy.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/hk.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/hk.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/hm.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/hm.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/hn.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/hn.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/hr.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/hr.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ht.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ht.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/hu.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/hu.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/icomoon.eot",
+      "PackagePath": "staticwebassets/Admin/fonts/icomoon.eot"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/icomoon.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/icomoon.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/icomoon.ttf",
+      "PackagePath": "staticwebassets/Admin/fonts/icomoon.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/icomoon.woff",
+      "PackagePath": "staticwebassets/Admin/fonts/icomoon.woff"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/icomoon_1.eot",
+      "PackagePath": "staticwebassets/Admin/fonts/icomoon_1.eot"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/id.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/id.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ie.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ie.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/il.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/il.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/im.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/im.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/in.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/in.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/io.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/io.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/iq.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/iq.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ir.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ir.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/is.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/is.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/it.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/it.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/je.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/je.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/jm.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/jm.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/jo.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/jo.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/jp.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/jp.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ke.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ke.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/kg.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/kg.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/kh.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/kh.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ki.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ki.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/km.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/km.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/kn.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/kn.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/kp.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/kp.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/kr.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/kr.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/kw.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/kw.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ky.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ky.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/kz.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/kz.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/la.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/la.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/lb.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/lb.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/lc.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/lc.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/li.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/li.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/lk.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/lk.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/lr.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/lr.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ls.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ls.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/lt.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/lt.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/lu.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/lu.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/lv.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/lv.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ly.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ly.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ma.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ma.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets/Admin/fonts/materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets/Admin/fonts/materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets/Admin/fonts/materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets/Admin/fonts/materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/materialdesignicons-webfont_1.eot",
+      "PackagePath": "staticwebassets/Admin/fonts/materialdesignicons-webfont_1.eot"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/mc.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/mc.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/md.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/md.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/me.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/me.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/mf.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/mf.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/mg.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/mg.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/mh.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/mh.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/mk.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/mk.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ml.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ml.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/mm.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/mm.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/mn.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/mn.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/mo.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/mo.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/mp.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/mp.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/mq.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/mq.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/mr.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/mr.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ms.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ms.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/mt.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/mt.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/mu.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/mu.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/mv.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/mv.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/mw.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/mw.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/mx.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/mx.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/my.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/my.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/mz.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/mz.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/na.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/na.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/nc.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/nc.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ne.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ne.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/nf.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/nf.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ng.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ng.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ni.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ni.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/nl.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/nl.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/no.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/no.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/np.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/np.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/nr.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/nr.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/nu.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/nu.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/nz.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/nz.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/om.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/om.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/pa.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/pa.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/pe.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/pe.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/pf.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/pf.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/pg.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/pg.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ph.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ph.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/pk.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/pk.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/pl.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/pl.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/pm.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/pm.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/pn.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/pn.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/pr.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/pr.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ps.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ps.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/pt.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/pt.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/pw.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/pw.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/py.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/py.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/qa.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/qa.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/re.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/re.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ro.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ro.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/rs.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/rs.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ru.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ru.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/rw.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/rw.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/sa.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/sa.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/sb.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/sb.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/sc.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/sc.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/sd.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/sd.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/se.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/se.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/sg.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/sg.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/sh.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/sh.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/si.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/si.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/sj.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/sj.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/sk.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/sk.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/sl.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/sl.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/sm.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/sm.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/sn.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/sn.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/so.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/so.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/sr.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/sr.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ss.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ss.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/st.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/st.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/success.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/success.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/sv.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/sv.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/sx.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/sx.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/sy.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/sy.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/sz.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/sz.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/tc.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/tc.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/td.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/td.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/tf.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/tf.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/tg.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/tg.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/th.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/th.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/themify.eot",
+      "PackagePath": "staticwebassets/Admin/fonts/themify.eot"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/themify.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/themify.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/themify.ttf",
+      "PackagePath": "staticwebassets/Admin/fonts/themify.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/themify.woff",
+      "PackagePath": "staticwebassets/Admin/fonts/themify.woff"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/themify_1.eot",
+      "PackagePath": "staticwebassets/Admin/fonts/themify_1.eot"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/tj.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/tj.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/tk.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/tk.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/tl.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/tl.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/tm.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/tm.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/tn.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/tn.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/to.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/to.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/tr.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/tr.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/tt.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/tt.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/tv.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/tv.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/tw.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/tw.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/tz.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/tz.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ua.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ua.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ug.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ug.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/um.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/um.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/us.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/us.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/uy.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/uy.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/uz.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/uz.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/va.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/va.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/vc.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/vc.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ve.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ve.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/vg.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/vg.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/vi.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/vi.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/vn.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/vn.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/vu.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/vu.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/warning.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/warning.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/weathericons-regular-webfont.eot",
+      "PackagePath": "staticwebassets/Admin/fonts/weathericons-regular-webfont.eot"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/weathericons-regular-webfont.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/weathericons-regular-webfont.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/weathericons-regular-webfont.ttf",
+      "PackagePath": "staticwebassets/Admin/fonts/weathericons-regular-webfont.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/weathericons-regular-webfont.woff",
+      "PackagePath": "staticwebassets/Admin/fonts/weathericons-regular-webfont.woff"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/weathericons-regular-webfont.woff2",
+      "PackagePath": "staticwebassets/Admin/fonts/weathericons-regular-webfont.woff2"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/wf.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/wf.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ws.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ws.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/ye.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/ye.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/yt.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/yt.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/za.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/za.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/zm.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/zm.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/fonts/zw.svg",
+      "PackagePath": "staticwebassets/Admin/fonts/zw.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/images/1.jpg",
+      "PackagePath": "staticwebassets/Admin/images/1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/images/2.jpg",
+      "PackagePath": "staticwebassets/Admin/images/2.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/images/3.jpg",
+      "PackagePath": "staticwebassets/Admin/images/3.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/images/4.jpg",
+      "PackagePath": "staticwebassets/Admin/images/4.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/images/5.jpg",
+      "PackagePath": "staticwebassets/Admin/images/5.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/images/6.jpg",
+      "PackagePath": "staticwebassets/Admin/images/6.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/images/7.jpg",
+      "PackagePath": "staticwebassets/Admin/images/7.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/images/8.jpg",
+      "PackagePath": "staticwebassets/Admin/images/8.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/images/chrome-logo.png",
+      "PackagePath": "staticwebassets/Admin/images/chrome-logo.png"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/images/custom-select.png",
+      "PackagePath": "staticwebassets/Admin/images/custom-select.png"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/images/favicon.png",
+      "PackagePath": "staticwebassets/Admin/images/favicon.png"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/images/firefox-logo.png",
+      "PackagePath": "staticwebassets/Admin/images/firefox-logo.png"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/images/img1.jpg",
+      "PackagePath": "staticwebassets/Admin/images/img1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/images/img2.jpg",
+      "PackagePath": "staticwebassets/Admin/images/img2.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/images/img3.jpg",
+      "PackagePath": "staticwebassets/Admin/images/img3.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/images/internet-logo.png",
+      "PackagePath": "staticwebassets/Admin/images/internet-logo.png"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/images/logo-icon.png",
+      "PackagePath": "staticwebassets/Admin/images/logo-icon.png"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/images/logo-light-icon.png",
+      "PackagePath": "staticwebassets/Admin/images/logo-light-icon.png"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/images/logo-light-text.png",
+      "PackagePath": "staticwebassets/Admin/images/logo-light-text.png"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/images/logo-text.png",
+      "PackagePath": "staticwebassets/Admin/images/logo-text.png"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/images/netscape-logo.png",
+      "PackagePath": "staticwebassets/Admin/images/netscape-logo.png"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/images/opera-logo.png",
+      "PackagePath": "staticwebassets/Admin/images/opera-logo.png"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/images/safari-logo.png",
+      "PackagePath": "staticwebassets/Admin/images/safari-logo.png"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/Admin/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/js/c3.min.js",
+      "PackagePath": "staticwebassets/Admin/js/c3.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/js/custom.min.js",
+      "PackagePath": "staticwebassets/Admin/js/custom.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/js/d3.min.js",
+      "PackagePath": "staticwebassets/Admin/js/d3.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/js/dashboard1.js",
+      "PackagePath": "staticwebassets/Admin/js/dashboard1.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/js/email-decode.min.js",
+      "PackagePath": "staticwebassets/Admin/js/email-decode.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/js/jQuery.style.switcher.js",
+      "PackagePath": "staticwebassets/Admin/js/jQuery.style.switcher.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/js/jquery.min.js",
+      "PackagePath": "staticwebassets/Admin/js/jquery.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/js/jquery.toast.js",
+      "PackagePath": "staticwebassets/Admin/js/jquery.toast.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/js/morris.min.js",
+      "PackagePath": "staticwebassets/Admin/js/morris.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/js/perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets/Admin/js/perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/js/popper.min.js",
+      "PackagePath": "staticwebassets/Admin/js/popper.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/js/raphael.min.js",
+      "PackagePath": "staticwebassets/Admin/js/raphael.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/js/sidebarmenu.js",
+      "PackagePath": "staticwebassets/Admin/js/sidebarmenu.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Admin/js/waves.js",
+      "PackagePath": "staticwebassets/Admin/js/waves.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/ErrorPage/css/style.css",
+      "PackagePath": "staticwebassets/ErrorPage/css/style.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/ErrorPage/img/bg.jpg",
+      "PackagePath": "staticwebassets/ErrorPage/img/bg.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/Flaticon.woff2",
+      "PackagePath": "staticwebassets/Flaticon.woff2"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/css/animate.min.css",
+      "PackagePath": "staticwebassets/css/animate.min.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/css/bootstrap-select.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap-select.min.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/css/bootstrap-submenu.css",
+      "PackagePath": "staticwebassets/css/bootstrap-submenu.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/css/css.css",
+      "PackagePath": "staticwebassets/css/css.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/css/dropzone.css",
+      "PackagePath": "staticwebassets/css/dropzone.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/css/flaticon.css",
+      "PackagePath": "staticwebassets/css/flaticon.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/css/ie10-viewport-bug-workaround.css",
+      "PackagePath": "staticwebassets/css/ie10-viewport-bug-workaround.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/css/jquery.mCustomScrollbar.css",
+      "PackagePath": "staticwebassets/css/jquery.mCustomScrollbar.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/css/leaflet.css",
+      "PackagePath": "staticwebassets/css/leaflet.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/css/magnific-popup.css",
+      "PackagePath": "staticwebassets/css/magnific-popup.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/css/map.css",
+      "PackagePath": "staticwebassets/css/map.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/css/midnight-blue.css",
+      "PackagePath": "staticwebassets/css/midnight-blue.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/css/slick.css",
+      "PackagePath": "staticwebassets/css/slick.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/css/style_1.css",
+      "PackagePath": "staticwebassets/css/style_1.css"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/fonts/4iCs6KVjbNBYlgoKfw7z.ttf",
+      "PackagePath": "staticwebassets/fonts/4iCs6KVjbNBYlgoKfw7z.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/fonts/4iCv6KVjbNBYlgoC1CzjsGyI.ttf",
+      "PackagePath": "staticwebassets/fonts/4iCv6KVjbNBYlgoC1CzjsGyI.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/fonts/4iCv6KVjbNBYlgoCxCvjsGyI.ttf",
+      "PackagePath": "staticwebassets/fonts/4iCv6KVjbNBYlgoCxCvjsGyI.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/fonts/Flaticon.ttf",
+      "PackagePath": "staticwebassets/fonts/Flaticon.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/fonts/Flaticon.woff",
+      "PackagePath": "staticwebassets/fonts/Flaticon.woff"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/fonts/Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets/fonts/Linearicons-Free.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/fonts/Linearicons-Free.woff",
+      "PackagePath": "staticwebassets/fonts/Linearicons-Free.woff"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/fonts/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf",
+      "PackagePath": "staticwebassets/fonts/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/fonts/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf",
+      "PackagePath": "staticwebassets/fonts/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/fonts/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf",
+      "PackagePath": "staticwebassets/fonts/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/fonts/pxiEyp8kv8JHgFVrJJfedw.ttf",
+      "PackagePath": "staticwebassets/fonts/pxiEyp8kv8JHgFVrJJfedw.ttf"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/Flaticon.svg",
+      "PackagePath": "staticwebassets/img/Flaticon.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/Linearicons-Free.svg",
+      "PackagePath": "staticwebassets/img/Linearicons-Free.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/078567f2-e80d-4ea2-beb6-17fdc9d2cba52019-bmw-m8-coupe.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/078567f2-e80d-4ea2-beb6-17fdc9d2cba52019-bmw-m8-coupe.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/0c7c033a-7514-4f6e-a15e-0adf610fbde4bmw-m760li_007.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/0c7c033a-7514-4f6e-a15e-0adf610fbde4bmw-m760li_007.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/110ae2ad-37a8-414c-9b0c-8ac3cef3d110priora_2019-1.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/110ae2ad-37a8-414c-9b0c-8ac3cef3d110priora_2019-1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/19ad8401-4959-466e-9aa1-bd5b9bd4fc272017-bmw-m760li-xdrive.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/19ad8401-4959-466e-9aa1-bd5b9bd4fc272017-bmw-m760li-xdrive.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/1f373036-501e-4940-b9ff-65662267d0132019-bmw-m8-coupe.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/1f373036-501e-4940-b9ff-65662267d0132019-bmw-m8-coupe.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/22fa9812-a64c-48d8-8573-d6d55211f0322017-bmw-m760i-review.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/22fa9812-a64c-48d8-8573-d6d55211f0322017-bmw-m760i-review.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/23bc9d8d-302e-4b66-835b-382603d85c8bpriora_2019-1.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/23bc9d8d-302e-4b66-835b-382603d85c8bpriora_2019-1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/2944d624-dfb6-4e27-b241-916e97d66e6bpriora_2019-1.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/2944d624-dfb6-4e27-b241-916e97d66e6bpriora_2019-1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/2a988437-dbe0-4220-b652-f80f4c83ba822019-bmw-m8-coupe.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/2a988437-dbe0-4220-b652-f80f4c83ba822019-bmw-m8-coupe.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/2e65aa44-253a-498e-b084-7f7e6c3d291c1mclarenindy.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/2e65aa44-253a-498e-b084-7f7e6c3d291c1mclarenindy.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/38009573-9882-450c-9c5f-e808c4004781bmw-m760li_007.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/38009573-9882-450c-9c5f-e808c4004781bmw-m760li_007.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/4646c356-0f72-4e38-89c2-4317875866c4zBMW_S1000RR_3.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/4646c356-0f72-4e38-89c2-4317875866c4zBMW_S1000RR_3.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/46e67b0f-2b7b-47aa-a849-d90d731a4b6b2017-bmw-m760i-review.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/46e67b0f-2b7b-47aa-a849-d90d731a4b6b2017-bmw-m760i-review.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/4f527529-fbb1-44fc-b2a4-80428955bed71mclarenindy.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/4f527529-fbb1-44fc-b2a4-80428955bed71mclarenindy.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/4f61280e-2bac-4d2a-8d81-a85e80516dd01mclarenindy.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/4f61280e-2bac-4d2a-8d81-a85e80516dd01mclarenindy.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/5fa1227d-c236-4365-9ba3-c9adeeedbe112019-bmw-m8-coupe.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/5fa1227d-c236-4365-9ba3-c9adeeedbe112019-bmw-m8-coupe.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/649f86f0-12dd-44e7-a3fd-c5f5e4ef39412019-bmw-m8-coupe.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/649f86f0-12dd-44e7-a3fd-c5f5e4ef39412019-bmw-m8-coupe.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/6b888e9f-6799-4117-adbd-40b500aa672d2019-bmw-m8-coupe.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/6b888e9f-6799-4117-adbd-40b500aa672d2019-bmw-m8-coupe.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/6b9bd0fa-0e60-44af-82c6-1eeacd6677d02017-bmw-m760li-xdrive.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/6b9bd0fa-0e60-44af-82c6-1eeacd6677d02017-bmw-m760li-xdrive.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/6e75f352-9749-4a7e-a3d9-4b0b26ed45e9priora_2019-1.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/6e75f352-9749-4a7e-a3d9-4b0b26ed45e9priora_2019-1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/73e69231-cbe1-4a62-a53b-1caaab9320d12019-bmw-m8-coupe.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/73e69231-cbe1-4a62-a53b-1caaab9320d12019-bmw-m8-coupe.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/758c2aaa-0711-4887-8456-56784947d6ea2017-bmw-m760li-xdrive.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/758c2aaa-0711-4887-8456-56784947d6ea2017-bmw-m760li-xdrive.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/76144fc6-694f-4fc8-a91c-3e069651005a2017-bmw-m760li-xdrive.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/76144fc6-694f-4fc8-a91c-3e069651005a2017-bmw-m760li-xdrive.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/7c6b2da3-77e8-403a-8c5d-e35b96bd9a3f2019-bmw-m8-coupe.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/7c6b2da3-77e8-403a-8c5d-e35b96bd9a3f2019-bmw-m8-coupe.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/8723ac2b-82d6-4072-b332-aa309688f83cpriora_2019-1.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/8723ac2b-82d6-4072-b332-aa309688f83cpriora_2019-1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/88e03199-3e87-427d-a2f9-3a85c228b429priora_2019-1.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/88e03199-3e87-427d-a2f9-3a85c228b429priora_2019-1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/98d98a7e-56d4-4e17-a7cf-4ae0045aad0azBMW_S1000RR_3.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/98d98a7e-56d4-4e17-a7cf-4ae0045aad0azBMW_S1000RR_3.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/a41ba1a3-5d6c-434b-a30f-70d314d8869e1mclarenindy.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/a41ba1a3-5d6c-434b-a30f-70d314d8869e1mclarenindy.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/afae99f7-93fe-4ef3-a061-a6588e562d1e2019-bmw-m8-coupe.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/afae99f7-93fe-4ef3-a061-a6588e562d1e2019-bmw-m8-coupe.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/b46b64e8-20c4-4e36-9187-0d23aa8fec452019-bmw-m8-coupe.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/b46b64e8-20c4-4e36-9187-0d23aa8fec452019-bmw-m8-coupe.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/b636488c-9e77-46e8-b135-19dd41d2ac382019-bmw-m8-coupe.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/b636488c-9e77-46e8-b135-19dd41d2ac382019-bmw-m8-coupe.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/bc316bca-b74f-484b-8bdc-692a986994612017-bmw-m760li-xdrive.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/bc316bca-b74f-484b-8bdc-692a986994612017-bmw-m760li-xdrive.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/ce5feb3f-4eb2-405b-8641-1851b60bb55b2019-bmw-m8-coupe.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/ce5feb3f-4eb2-405b-8641-1851b60bb55b2019-bmw-m8-coupe.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/d09e0545-d010-4536-82d9-fd7838ffd1f502f8dde0-8af9-418b-8643-75ba2b5629091mclarenindy.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/d09e0545-d010-4536-82d9-fd7838ffd1f502f8dde0-8af9-418b-8643-75ba2b5629091mclarenindy.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/d8e3dd4e-838f-44f6-aef0-38033276df9d2017-bmw-m760i-review.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/d8e3dd4e-838f-44f6-aef0-38033276df9d2017-bmw-m760i-review.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/d9d49974-512f-4ecd-8c1c-92adf5fb59a11mclarenindy.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/d9d49974-512f-4ecd-8c1c-92adf5fb59a11mclarenindy.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/e7a5d3e3-0665-47ca-b2fb-832754afcb722017-bmw-m760i-review.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/e7a5d3e3-0665-47ca-b2fb-832754afcb722017-bmw-m760i-review.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/e98e90e0-31c8-4235-98ed-cc8c749e51482017-bmw-m760li-xdrive.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/e98e90e0-31c8-4235-98ed-cc8c749e51482017-bmw-m760li-xdrive.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/f0a0d29f-67bd-48bf-a579-eead76ad08022017-bmw-m760li-xdrive.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/f0a0d29f-67bd-48bf-a579-eead76ad08022017-bmw-m760li-xdrive.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/f34aa61c-3961-4795-bf7f-ec9e086754902017-bmw-m760li-xdrive.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/f34aa61c-3961-4795-bf7f-ec9e086754902017-bmw-m760li-xdrive.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/f52411bc-800f-4b96-9d4d-4132e3a5d95c1mclarenindy.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/f52411bc-800f-4b96-9d4d-4132e3a5d95c1mclarenindy.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/advertisements/fc3806f7-216c-4adb-acf9-b52ca6f17f39bmw-m760li_007.jpg",
+      "PackagePath": "staticwebassets/img/advertisements/fc3806f7-216c-4adb-acf9-b52ca6f17f39bmw-m760li_007.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/banner-1.jpg",
+      "PackagePath": "staticwebassets/img/banner-1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/black-logo.png",
+      "PackagePath": "staticwebassets/img/black-logo.png"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/black-logo_1.png",
+      "PackagePath": "staticwebassets/img/black-logo_1.png"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/blogs/2f125847-7263-4f4e-b86a-15f7d6f28aa3priora_2019-1.jpg",
+      "PackagePath": "staticwebassets/img/blogs/2f125847-7263-4f4e-b86a-15f7d6f28aa3priora_2019-1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/blogs/316b11e4-f9a1-4d2b-b393-b333ec5053aa1mclarenindy.jpg",
+      "PackagePath": "staticwebassets/img/blogs/316b11e4-f9a1-4d2b-b393-b333ec5053aa1mclarenindy.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/blogs/3349a9f5-199f-4f14-aebe-7ece9106ef3dzBMW_S1000RR_3.jpg",
+      "PackagePath": "staticwebassets/img/blogs/3349a9f5-199f-4f14-aebe-7ece9106ef3dzBMW_S1000RR_3.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/blogs/36ac2c00-78f6-44c3-bdda-41098e3677601734339_all-new_kona_hybrid_1.jpg",
+      "PackagePath": "staticwebassets/img/blogs/36ac2c00-78f6-44c3-bdda-41098e3677601734339_all-new_kona_hybrid_1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/blogs/3e8a0c54-2c4d-4f83-9ecd-7ee6ca0730a62019-bmw-m8-coupe.jpg",
+      "PackagePath": "staticwebassets/img/blogs/3e8a0c54-2c4d-4f83-9ecd-7ee6ca0730a62019-bmw-m8-coupe.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/blogs/6f419e99-b645-4a80-a9de-e2ec7901cde22017-bmw-m760li-xdrive.jpg",
+      "PackagePath": "staticwebassets/img/blogs/6f419e99-b645-4a80-a9de-e2ec7901cde22017-bmw-m760li-xdrive.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/car-1.jpg",
+      "PackagePath": "staticwebassets/img/car-1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/car-1_1.jpg",
+      "PackagePath": "staticwebassets/img/car-1_1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/car-2.jpg",
+      "PackagePath": "staticwebassets/img/car-2.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/car-2_1.jpg",
+      "PackagePath": "staticwebassets/img/car-2_1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/car-3_1.jpg",
+      "PackagePath": "staticwebassets/img/car-3_1.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/car-4.jpg",
+      "PackagePath": "staticwebassets/img/car-4.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/car-5.jpg",
+      "PackagePath": "staticwebassets/img/car-5.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/car-6.jpg",
+      "PackagePath": "staticwebassets/img/car-6.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/car-7.jpg",
+      "PackagePath": "staticwebassets/img/car-7.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/favicon.ico",
+      "PackagePath": "staticwebassets/img/favicon.ico"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/img/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/layers-2x.png",
+      "PackagePath": "staticwebassets/img/layers-2x.png"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/layers.png",
+      "PackagePath": "staticwebassets/img/layers.png"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/listings-parallax.jpg",
+      "PackagePath": "staticwebassets/img/listings-parallax.jpg"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/loader.gif",
+      "PackagePath": "staticwebassets/img/loader.gif"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/logo.png",
+      "PackagePath": "staticwebassets/img/logo.png"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/logos/black-logo.png",
+      "PackagePath": "staticwebassets/img/logos/black-logo.png"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/logos/black-logo_1.png",
+      "PackagePath": "staticwebassets/img/logos/black-logo_1.png"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/logos/logo.png",
+      "PackagePath": "staticwebassets/img/logos/logo.png"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/mCSB_buttons.png",
+      "PackagePath": "staticwebassets/img/mCSB_buttons.png"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/img/slider-detail.png",
+      "PackagePath": "staticwebassets/img/slider-detail.png"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/js/app.js",
+      "PackagePath": "staticwebassets/js/app.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/js/bootstrap-select.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap-select.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/js/bootstrap-submenu.js",
+      "PackagePath": "staticwebassets/js/bootstrap-submenu.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/js/dropzone.js",
+      "PackagePath": "staticwebassets/js/dropzone.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/js/ie-emulation-modes-warning.js",
+      "PackagePath": "staticwebassets/js/ie-emulation-modes-warning.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/js/ie10-viewport-bug-workaround.js",
+      "PackagePath": "staticwebassets/js/ie10-viewport-bug-workaround.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/js/jquery-2.2.0.min.js",
+      "PackagePath": "staticwebassets/js/jquery-2.2.0.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/js/jquery.countdown.js",
+      "PackagePath": "staticwebassets/js/jquery.countdown.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/js/jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets/js/jquery.easing.1.3.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/js/jquery.filterizr.js",
+      "PackagePath": "staticwebassets/js/jquery.filterizr.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/js/jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets/js/jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/js/jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets/js/jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/js/jquery.mb.YTPlayer.js",
+      "PackagePath": "staticwebassets/js/jquery.mb.YTPlayer.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/js/jquery.scrollUp.js",
+      "PackagePath": "staticwebassets/js/jquery.scrollUp.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/js/js.js",
+      "PackagePath": "staticwebassets/js/js.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/js/leaflet-providers.js",
+      "PackagePath": "staticwebassets/js/leaflet-providers.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/js/leaflet.js",
+      "PackagePath": "staticwebassets/js/leaflet.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/js/leaflet.markercluster.js",
+      "PackagePath": "staticwebassets/js/leaflet.markercluster.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/js/maps.js",
+      "PackagePath": "staticwebassets/js/maps.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/js/popper.min.js",
+      "PackagePath": "staticwebassets/js/popper.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/js/rangeslider.js",
+      "PackagePath": "staticwebassets/js/rangeslider.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/js/slick.min.js",
+      "PackagePath": "staticwebassets/js/slick.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/additional-methods.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_ar.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_ar.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_ar.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_ar.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_az.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_az.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_az.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_az.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_bg.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_bg.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_bg.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_bg.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_bn_BD.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_bn_BD.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_bn_BD.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_bn_BD.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_ca.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_ca.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_ca.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_ca.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_cs.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_cs.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_cs.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_cs.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_da.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_da.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_da.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_da.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_de.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_de.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_de.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_de.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_el.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_el.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_el.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_el.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_es.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_es.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_es.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_es.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_es_AR.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_es_AR.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_es_AR.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_es_AR.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_es_PE.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_es_PE.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_es_PE.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_es_PE.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_et.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_et.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_et.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_et.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_eu.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_eu.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_eu.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_eu.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_fa.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_fa.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_fa.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_fa.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_fi.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_fi.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_fi.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_fi.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_fr.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_fr.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_fr.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_fr.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_ge.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_ge.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_ge.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_ge.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_gl.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_gl.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_gl.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_gl.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_he.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_he.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_he.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_he.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_hr.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_hr.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_hr.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_hr.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_hu.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_hu.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_hu.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_hu.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_hy_AM.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_hy_AM.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_hy_AM.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_hy_AM.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_id.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_id.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_id.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_id.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_is.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_is.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_is.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_is.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_it.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_it.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_it.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_it.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_ja.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_ja.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_ja.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_ja.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_ka.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_ka.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_ka.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_ka.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_kk.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_kk.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_kk.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_kk.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_ko.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_ko.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_ko.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_ko.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_lt.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_lt.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_lt.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_lt.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_lv.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_lv.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_lv.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_lv.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_mk.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_mk.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_mk.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_mk.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_my.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_my.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_my.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_my.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_nl.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_nl.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_nl.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_nl.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_no.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_no.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_no.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_no.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_pl.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_pl.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_pl.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_pl.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_pt_BR.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_pt_BR.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_pt_BR.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_pt_BR.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_pt_PT.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_pt_PT.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_pt_PT.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_pt_PT.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_ro.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_ro.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_ro.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_ro.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_ru.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_ru.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_ru.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_ru.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_sd.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_sd.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_sd.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_sd.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_si.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_si.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_si.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_si.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_sk.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_sk.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_sk.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_sk.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_sl.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_sl.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_sl.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_sl.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_sr.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_sr.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_sr.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_sr.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_sr_lat.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_sr_lat.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_sr_lat.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_sr_lat.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_sv.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_sv.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_sv.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_sv.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_th.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_th.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_th.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_th.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_tj.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_tj.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_tj.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_tj.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_tr.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_tr.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_tr.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_tr.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_uk.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_uk.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_uk.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_uk.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_ur.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_ur.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_ur.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_ur.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_vi.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_vi.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_vi.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_vi.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_zh.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_zh.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_zh.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_zh.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_zh_TW.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_zh_TW.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/messages_zh_TW.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/messages_zh_TW.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/methods_de.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/methods_de.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/methods_de.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/methods_de.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/methods_es_CL.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/methods_es_CL.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/methods_es_CL.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/methods_es_CL.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/methods_fi.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/methods_fi.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/methods_fi.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/methods_fi.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/methods_it.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/methods_it.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/methods_it.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/methods_it.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/methods_nl.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/methods_nl.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/methods_nl.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/methods_nl.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/methods_pt.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/methods_pt.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validate/localization/methods_pt.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validate/localization/methods_pt.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/wwwroot/loader.gif",
+      "PackagePath": "staticwebassets/loader.gif"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.aspFinal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.aspFinal.props",
+      "PackagePath": "build\\aspFinal.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.aspFinal.props",
+      "PackagePath": "buildMultiTargeting\\aspFinal.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.aspFinal.props",
+      "PackagePath": "buildTransitive\\aspFinal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

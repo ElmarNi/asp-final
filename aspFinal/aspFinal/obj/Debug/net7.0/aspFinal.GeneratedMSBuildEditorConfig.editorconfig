@@ -1,0 +1,141 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = aspFinal
+build_property.RootNamespace = aspFinal
+build_property.ProjectDir = /Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Areas/Admin/Views/Advertisement/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWR2ZXJ0aXNlbWVudC9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Areas/Admin/Views/Advertisement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQWR2ZXJ0aXNlbWVudC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Areas/Admin/Views/Blog/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Areas/Admin/Views/Blog/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Areas/Admin/Views/Blog/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Areas/Admin/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Areas/Admin/Views/Blog/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQmxvZy9VcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Areas/Admin/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvRGFzaGJvYXJkL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Views/Account/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Db25maXJtRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Views/Advertisement/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWR2ZXJ0aXNlbWVudC9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Views/Advertisement/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWR2ZXJ0aXNlbWVudC9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Views/Advertisement/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWR2ZXJ0aXNlbWVudC9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Views/Advertisement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWR2ZXJ0aXNlbWVudC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Views/Advertisement/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWR2ZXJ0aXNlbWVudC9VcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Views/Blog/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvZy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Views/Shared/ErrorPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Views/Shared/_BlogPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19CbG9nUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Views/Shared/_CarDetailsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19DYXJEZXRhaWxzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Views/Shared/_CarsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19DYXJzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Views/Shared/_FilteredCitiesByCountryId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19GaWx0ZXJlZENpdGllc0J5Q291bnRyeUlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Views/Shared/_FilteredMakesByBrandId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19GaWx0ZXJlZE1ha2VzQnlCcmFuZElkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ibrahimlien/Desktop/BackEnd/asp-final/aspFinal/aspFinal/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

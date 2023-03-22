@@ -11,7 +11,7 @@ namespace aspFinal.Migrations
 {
     [DbContext(typeof(AspFinalDbContext))]
     [Migration("20190810000248_updated car table millage data type to int from decimal")]
-    partial class updatedcartablemillagedatatypetointfromdecimal
+    partial class updatedCartablemillagedatatypetointfromdecimal
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
